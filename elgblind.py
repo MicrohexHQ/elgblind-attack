@@ -1,4 +1,4 @@
-#E. Mogammed et al. proposed a blind signature scheme, which did not meet the unforgeability.
+#E. Mohammed et al. proposed a blind signature scheme, which did not meet the unforgeability.
 #This implementation is insecure!
 
 import random
